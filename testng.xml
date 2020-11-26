@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Exchange Rate API Test Suite">
+  <test name="Test 1">
+      
+      <classes>
+            <class name="runners.TestRunner" />
+        </classes>
+      
+  </test> <!-- Test --> 
+   
+  <test name="Test 2">    
+     
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
